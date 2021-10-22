@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NereNot", "NereNot\NereNot.csproj", "{76EC1412-68F4-457D-A43C-D15B263BC638}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76EC1412-68F4-457D-A43C-D15B263BC638}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76EC1412-68F4-457D-A43C-D15B263BC638}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76EC1412-68F4-457D-A43C-D15B263BC638}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76EC1412-68F4-457D-A43C-D15B263BC638}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46D0D94F-0D78-4E79-838D-4157863FE1A6}
+	EndGlobalSection
+EndGlobal
